@@ -6,7 +6,7 @@
 }
 
 .title-wrapper {
-    background-color: rgba(9, 132, 227,0.5);
+    background-color: rgba(0, 0, 0, 0.4);
     height: 300px;
     align-items: center;
     display: flex;
@@ -31,11 +31,16 @@ h2 {
     font-family: 'Lobster', cursive;
     font-size: 40px;
     margin: 30px 0;
+    color: rgba(41, 128, 185,1.0);
 }
 
 p {
     font-family: 'Poppins', sans-serif;
     clear: right;
+}
+
+.card-title {
+    font-family: 'Poppins', sans-serif;
 }
 
 .text-content {
